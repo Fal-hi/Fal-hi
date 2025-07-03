@@ -57,7 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fal-hi&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fal-hi&theme=radical" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Fal-hi&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=Fal-hi&theme=radical)" />
 </p>
 
 ---
