@@ -13,7 +13,7 @@
 - 🎨 UI/UX Enthusiast with design skills using **Figma, CorelDraw, and Canva**.
 - 🔄 I love managing state with **Zustand, Redux**, and fetching data with **Tanstack Query**.
 - 🧪 Testing my code using **Vitest & React Testing Library**.
-- 🔗 My Portfolio: [https://syaifal-illahi.vercel.app](https://syaifal-illahi.vercel.app)
+- 🔗 My Portfolio: [https://fal-portfolio.vercel.app](https://fal-portfolio.vercel.app)
 
 ---
 
